@@ -347,6 +347,7 @@
       "Attach Meeting": "Pridėti susitikimą",
       "Attendance": "Lankomumas",
       "Back": "Atgal",
+      "Back to Account": "Grįžti į sąskaitą",
       "Bar Chart": "Juostinė diagrama",
       "Browse": "Naršyti",
       "Bulk JLG Loan Application": "Masinės JLG paskolos paraiška",
@@ -548,6 +549,7 @@
       "View Journal Entries": "Peržiūrėkite žurnalo įrašus",
       "View Standing Instructions": "Peržiūrėkite nuolatines instrukcijas",
       "View Transactions History": "Peržiūrėkite operacijų istoriją",
+      "View Transactions": "Peržiūrėti operacijas",
       "Waive": "Atsisakyti",
       "Waive Charge": "Atsisakyti mokesčio",
       "Week": "Savaitė",
@@ -555,7 +557,10 @@
       "View Active Charges": "Peržiūrėti aktyvius mokesčius",
       "View Inactive Charges": "Peržiūrėkite neaktyvius mokesčius",
       "Yes": "Taip",
-      "Is Self Service": "Savitarna"
+      "Is Self Service": "Savitarna",
+      "Advanced Search": "Išplėstinė paieška",
+      "Show advanced search": "Rodyti išplėstinę paiešką",
+      "Hide advanced search": "Slėpti išplėstinę paiešką"
     },
     "catalogs": {
       "Interest payment waiver": "Palūkanų mokėjimo atsisakymas",
@@ -922,6 +927,8 @@
       "Assets / Liability": "Turtas / įsipareigojimai",
       "Audit Trails": "Audito takai",
       "Balance": "Balansas",
+      "Beneficiary": "Gavėjas",
+      "Beneficiary Selection": "Gavėjo pasirinkimas",
       "Block Savings Account": "Blokuoti taupomąją sąskaitą",
       "Bulk Import": "Masinis importas",
       "Bulk Loan Reassignment": "Masinės paskolos perskirstymas",
@@ -1110,6 +1117,7 @@
       "Manage Holidays": "Tvarkyti šventes",
       "Manage Hooks": "Tvarkyti kabliukus",
       "Manage Jobs": "Tvarkyti darbus",
+      "Manage Loan Originators": "Tvarkyti paskolų teikėjus",
       "Manage Offices": "Tvarkyti biurus",
       "Manage Reports": "Tvarkyti ataskaitas",
       "Manage Roles and Permissions": "Tvarkykite vaidmenis ir leidimus",
@@ -1226,6 +1234,10 @@
       "Transaction Reverted": "Sandoris grąžintas",
       "Transactions": "Sandoriai",
       "Transfer Details": "Pervedimo informacija",
+      "Transfer Failed": "Pervedimas nepavyko",
+      "Transfer Status": "Pervedimo būsena",
+      "Transfer Successful": "Pervedimas sėkmingas",
+      "Transfer Summary": "Pervedimo santrauka",
       "Transferred From": "Perkelta iš",
       "Transferred To": "Perkelta į",
       "Transferring From Details": "Perkėlimas iš detalių",
@@ -1280,7 +1292,8 @@
       "Important Dates": "Svarbios datos",
       "Contact Information": "Kontaktinė informacija",
       "Classification": "Klasifikacija",
-      "Status": "Statusas"
+      "Status": "Statusas",
+      "Pending Tasks": "Laukiamos užduotys"
     },
     "inputs": {
       "Terms": "Sąlygos",
@@ -1834,6 +1847,7 @@
       "Hook Template": "Kabliuko šablonas",
       "Host": "Šeimininkas",
       "Host Name": "Pagrindinio kompiuterio pavadinimas",
+      "Hour": "Valanda",
       "ID": "ID",
       "INTEREST RATE CHART": "PALŪKANŲ NORMOS SCHEMA",
       "Id": "Id",
@@ -1975,6 +1989,7 @@
       "Loan Documents": "Paskolos dokumentai",
       "Loan Id": "Paskolos ID",
       "Loan Officer": "Paskolos pareigūnas",
+      "Loan Originator": "Paskolos teikėjas",
       "Loan Outstanding Amount": "Nemokėta paskolos suma",
       "Loan Outstanding Percentage": "Nemokėtos paskolos procentas",
       "Loan Parameters": "Paskolos parametrai",
@@ -2067,6 +2082,7 @@
       "Minimum Value": "Minimali vertė",
       "Minimum days between disbursal and first repayment date": "Minimalios dienos nuo išmokėjimo iki pirmojo grąžinimo datos",
       "Minimum gap between Installments": "Minimalus tarpas tarp įmokų",
+      "Minute": "Minutė",
       "Mobile": "Mobilusis",
       "Mobile Banking App": "Mobiliosios bankininkystės programa",
       "Mobile No": "Mobiliojo Nr",
@@ -2645,7 +2661,12 @@
       "Available Disbursement Amount (with Over Applied)": "Galimas išmokėjimo kiekis (su pertekliumi)",
       "Waive Penalties": "Atsisakyti delspinigių",
       "Overdue": "Pradelstas",
-      "Overdue Fees": "Delspinigiai"
+      "Overdue Fees": "Vėluojantys mokesčiai",
+      "From date": "Nuo datos",
+      "Resource id": "Resurso identifikatorius",
+      "To date": "Iki datos",
+      "Select action": "Pasirinkite veiksmą",
+      "Select entity": "Pasirinkite objektą"
     },
     "links": {
       "Community": "bendruomenė",
@@ -2676,6 +2697,7 @@
       "Application Menu": "Programų meniu",
       "Approve": "Patvirtinti",
       "Assign Loan Officer": "Paskirkite paskolos pareigūną",
+      "Attach Loan Originator": "Pridėti paskolos teikėją",
       "Assign Staff": "Paskirkite darbuotojus",
       "Block Account": "Blokuoti paskyrą",
       "Block Deposit": "Blokuoti indėlį",
@@ -2778,7 +2800,8 @@
       "Apply Additional Shares": "Taikyti Papildomą",
       "Redeem Shares": "Išpirkti akcijas",
       "Approve Additional Shares": "Patvirtinti papildomas akcijas",
-      "Reject Additional Shares": "Atmesti papildomas akcijas"
+      "Reject Additional Shares": "Atmesti papildomas akcijas",
+      "Tasks": "Užduotys"
     },
     "placeholders": {
       "Add new server": "Pridėti naują serverį",
@@ -2965,6 +2988,7 @@
       "Create Hook": "Sukurti kabliuką",
       "Create Journal Entry": "Sukurti žurnalo įrašą",
       "Create Loan Product": "Sukurti paskolos produktą",
+      "Create Loan Originator": "Sukurti paskolos teikėją",
       "Create Loans Account": "Sukurti paskolų sąskaitą",
       "Create New GL Account": "Ši parinktis leidžia kurti naujas GL paskyras.",
       "Create Office": "Sukurkite biurą",
@@ -3183,6 +3207,7 @@
       "Loan Collateral Details": "Paskolos užstato informacija",
       "Loan Disbursal": "Paskolos išmokėjimas",
       "Loan Documents": "Paskolos dokumentai",
+      "Loan Originators are associated with loan accounts": "Paskolų teikėjai yra susieti su paskolų sąskaitomis",
       "Loan Products": "Paskolos produktai",
       "Loan Provisioning Criteria Organization": "Apibrėžkite organizacijos paskolos suteikimo kriterijus",
       "Loan Tranche Details": "Išsami informacija apie paskolos dalį",
@@ -3191,6 +3216,21 @@
       "Loan products define the rules, default settings": "Paskolų produktai apibrėžia finansų įstaigos skolinimo pasiūlymų taisykles, numatytuosius nustatymus ir apribojimus. Paskolos produktas suteikia šabloną kelioms paskolos paskyroms finansų įstaigos klientams.",
       "Loan": "Paskola",
       "Loans": "Paskolos",
+      "DocumentCreatedBusinessEvent": "Dokumento sukurtas verslo įvykis",
+      "DocumentDeletedBusinessEvent": "Dokumento ištrintas verslo įvykis",
+      "LoanApplicationModifiedBusinessEvent": "Paskolos paraiškos modifikuotas verslo įvykis",
+      "LoanApprovedAmountChangedBusinessEvent": "Paskolos patvirtintos sumos pakeistas verslo įvykis",
+      "LoanBuyDownFeeAdjustmentTransactionCreatedBusinessEvent": "Paskolos pirkimo mokesčio koregavimo operacijos sukurtas verslo įvykis",
+      "LoanBuyDownFeeAmortizationAdjustmentTransactionCreatedBusinessEvent": "Paskolos pirkimo mokesčio amortizacijos koregavimo operacijos sukurtas verslo įvykis",
+      "LoanBuyDownFeeAmortizationTransactionCreatedBusinessEvent": "Paskolos pirkimo mokesčio amortizacijos operacijos sukurtas verslo įvykis",
+      "LoanBuyDownFeeTransactionCreatedBusinessEvent": "Paskolos pirkimo mokesčio operacijos sukurtas verslo įvykis",
+      "LoanCapitalizedIncomeAdjustmentTransactionCreatedBusinessEvent": "Paskolos kapitalizuotų pajamų koregavimo operacijos sukurtas verslo įvykis",
+      "LoanCapitalizedIncomeAmortizationAdjustmentTransactionCreatedBusinessEvent": "Paskolos kapitalizuotų pajamų amortizacijos koregavimo operacijos sukurtas verslo įvykis",
+      "LoanCapitalizedIncomeAmortizationTransactionCreatedBusinessEvent": "Paskolos kapitalizuotų pajamų amortizacijos operacijos sukurtas verslo įvykis",
+      "LoanCapitalizedIncomeTransactionCreatedBusinessEvent": "Paskolos kapitalizuotų pajamų operacijos sukurtas verslo įvykis",
+      "LoanUndoContractTerminationBusinessEvent": "Paskolos sutarties nutraukimo atšaukimo verslo įvykis",
+      "LoanTransactionContractTerminationPostBusinessEvent": "Paskolos sutarties nutraukimo operacijos verslo įvykis",
+      "LoanWithdrawnByApplicantBusinessEvent": "Paskolos atšauktos pareiškėjo verslo įvykis",
       "Loans Account Charges": "Paskolos sąskaitos mokesčiai",
       "Loans Account Transactions": "Paskolų sąskaitos operacijos",
       "Loans Delinquency Tags": "Paskolų vėlavimo žymos",
@@ -3207,6 +3247,7 @@
       "Manage Funds": "Valdykite lėšas",
       "Manage Holidays": "Tvarkyti šventes",
       "Manage Hooks": "Tvarkyti kabliukus",
+      "Manage Loan Originators": "Tvarkyti paskolų teikėjus",
       "Manage Offices": "Tvarkyti biurus",
       "Manage Offices page allows you to create, edit": "Puslapyje Tvarkyti biurus galite kurti, redaguoti ir įtraukti biurus savo organizacijoje.",
       "Manage Reports": "Tvarkyti ataskaitas",
@@ -3512,7 +3553,14 @@
         "REOPEN": "Atidaryti iš naujo",
         "WITHDRAW": "Išimti",
         "DEPOSIT": "Įdėti",
-        "TRANSFER": "Perkelti"
+        "TRANSFER": "Perkelti",
+        "POSTINTEREST": "Paskelbti palūkanas",
+        "CALCULATEINTEREST": "Apskaičiuoti palūkanas",
+        "ASSIGNSTAFF": "Priskirti personalui",
+        "ACCEPTTRANSFER": "Priimti perkėlimą",
+        "PROPOSETRANSFER": "Siūlyti perkėlimą",
+        "REPAYMENT": "Grąžinimas",
+        "DISBURSETOSAVINGS": "Išmokėti į taupymą"
       },
       "entities": {
         "ROLE": "Vaidmuo",
@@ -3541,7 +3589,11 @@
         "GUARANTOR": "Garantas",
         "SHAREPRODUCT": "Akcijų produktas",
         "FIXEDDEPOSITPRODUCT": "Terminuoto indėlio produktas",
-        "RECURRINGDEPOSITPRODUCT": "Periodinio indėlio produktas"
+        "FIXEDDEPOSITACCOUNT": "Terminuoto indėlio sąskaita",
+        "RECURRINGDEPOSITPRODUCT": "Periodinio indėlio produktas",
+        "RECURRINGDEPOSITACCOUNT": "Periodinio indėlio sąskaita",
+        "ACCOUNTTRANSFER": "Sąskaitos pervedimas",
+        "SSBENEFICIARYTPT": "Gavėjai TPT Savitarna"
       }
     },
     "titles": {
@@ -3765,7 +3817,10 @@
     "loan product will be active and available to clients": "Data, kada paskolos produktas bus aktyvus ir bus prieinamas klientams. Jei tuščia, paskolos produktas bus aktyvus, kai tik bus sukurtas.",
     "loan product will become inactive and unavailable to clients": "Data, kai paskolos produktas taps neaktyvus ir nepasiekiamas klientams. Jei tuščia, įkėlimo produktas niekada netaps neaktyvus.",
     "Refund transactions where interest refund will automatically be calculated": "Atmaksas darījumi, kuros procentu atmaksa tiks aprēķināta automātiski",
-    "Create Interest Refund": "Sukurti palūkanų grąžinimą"
+    "Create Interest Refund": "Sukurti palūkanų grąžinimą",
+    "ACTIVE": "AKTYVUS",
+    "PENDING": "LAUKIAMA",
+    "INACTIVE": "NEAKTYVUS"
   },
   "countries": {
     "AF": "Afganistanas",

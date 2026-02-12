@@ -347,6 +347,7 @@
       "Attach Meeting": "Ambatanisha Mkutano",
       "Attendance": "Mahudhurio",
       "Back": "Nyuma",
+      "Back to Account": "Rudi kwa Akaunti",
       "Bar Chart": "Chati ya Baa",
       "Browse": "Vinjari",
       "Bulk JLG Loan Application": "Maombi ya Mkopo wa Wingi wa JLG",
@@ -548,6 +549,7 @@
       "View Journal Entries": "Tazama Maingizo ya Jarida",
       "View Standing Instructions": "Tazama Maagizo ya Kudumu",
       "View Transactions History": "Tazama Historia ya Shughuli",
+      "View Transactions": "Tazama Shughuli",
       "Waive": "Acha",
       "Waive Charge": "Kuondoa Malipo",
       "Week": "Wiki",
@@ -555,7 +557,10 @@
       "View Active Charges": "Tazama Malipo Yanayotumika",
       "View Inactive Charges": "Tazama Gharama Isiyotumika",
       "Yes": "Ndiyo",
-      "Is Self Service": "Ni huduma binafsi"
+      "Is Self Service": "Ni huduma binafsi",
+      "Advanced Search": "Utafutaji wa Kina",
+      "Show advanced search": "Onyesha utafutaji wa kina",
+      "Hide advanced search": "Ficha utafutaji wa kina"
     },
     "catalogs": {
       "Interest payment waiver": "Msamaha wa Malipo ya Riba",
@@ -922,6 +927,8 @@
       "Assets / Liability": "Mali / Dhima",
       "Audit Trails": "Njia za Ukaguzi",
       "Balance": "Mizani",
+      "Beneficiary": "Mnufaika",
+      "Beneficiary Selection": "Uchaguzi wa Mnufaika",
       "Block Savings Account": "Zuia Akaunti ya Akiba",
       "Bulk Import": "Ingiza Wingi",
       "Bulk Loan Reassignment": "Ugawaji upya wa mkopo kwa wingi",
@@ -1109,6 +1116,7 @@
       "Manage Holidays": "Dhibiti Sikukuu",
       "Manage Hooks": "Kusimamia Hooks",
       "Manage Jobs": "Simamia Ajira",
+      "Manage Loan Originators": "Dhibiti Waanzilishi wa Mikopo",
       "Manage Offices": "Kusimamia Ofisi",
       "Manage Reports": "Dhibiti Ripoti",
       "Manage Roles and Permissions": "Dhibiti Majukumu na Ruhusa",
@@ -1224,6 +1232,11 @@
       "Transaction Details": "Maelezo ya Muamala",
       "Transaction Reverted": "Muamala Umerejeshwa",
       "Transactions": "Shughuli",
+      "Transfer Details": "Maelezo ya Uhamisho",
+      "Transfer Failed": "Uhamisho Umeshindwa",
+      "Transfer Status": "Hali ya Uhamisho",
+      "Transfer Successful": "Uhamisho Umefanikiwa",
+      "Transfer Summary": "Muhtasari wa Uhamisho",
       "Transferred From": "Imehamishwa Kutoka",
       "Transferred To": "Imehamishwa Kwa",
       "Transferring From Details": "Kuhamisha Kutoka kwa Maelezo",
@@ -1278,7 +1291,8 @@
       "Important Dates": "Tarehe Muhimu",
       "Contact Information": "Maelezo ya Mawasiliano",
       "Classification": "Uainishaji",
-      "Status": "Hali"
+      "Status": "Hali",
+      "Pending Tasks": "Kazi Zinazongoja"
     },
     "inputs": {
       "Terms": "Masharti",
@@ -1832,6 +1846,7 @@
       "Hook Template": "Kigezo cha ndoano",
       "Host": "Mwenyeji",
       "Host Name": "Jina la mwenyeji",
+      "Hour": "Saa",
       "ID": "ID",
       "INTEREST RATE CHART": "CHATI YA KIWANGO CHA RIBA",
       "Id": "Kitambulisho",
@@ -1973,6 +1988,7 @@
       "Loan Documents": "Nyaraka za Mkopo",
       "Loan Id": "Kitambulisho cha mkopo",
       "Loan Officer": "Afisa Mikopo",
+      "Loan Originator": "Mwanzilishi wa Mkopo",
       "Loan Outstanding Amount": "Kiasi Kilichobaki cha Mkopo",
       "Loan Outstanding Percentage": "Asilimia Iliyobaki ya Mkopo",
       "Loan Parameters": "Vigezo vya Mkopo",
@@ -2065,6 +2081,7 @@
       "Minimum Value": "Thamani ya chini",
       "Minimum days between disbursal and first repayment date": "Siku chache kati ya malipo na tarehe ya malipo ya kwanza",
       "Minimum gap between Installments": "Pengo la chini kati ya Mikopo",
+      "Minute": "Dakika",
       "Mobile": "Rununu",
       "Mobile Banking App": "Programu ya Benki ya Simu ya Mkononi",
       "Mobile No": "Simu No",
@@ -2641,7 +2658,12 @@
       "Income from Buy down fees": "Mapato kutoka kwa ada ya Kununua",
       "Buy down fee Expense": "Kununua ada ya chini Gharama",
       "Skip Interest Refund Transaction Posting": "Ruka uchapishaji wa muamala wa kurejesha riba",
-      "Available Disbursement Amount (with Over Applied)": "Tillgängligt utbetalningsbelopp (med överbetalning)"
+      "Available Disbursement Amount (with Over Applied)": "Kiasi cha Utoaji Kinachopatikana (pamoja na Matumizi Zaidi)",
+      "From date": "Kutoka tarehe",
+      "Resource id": "Kitambulisho cha rasilimali",
+      "To date": "Hadi tarehe",
+      "Select action": "Chagua kitendo",
+      "Select entity": "Chagua huluki"
     },
     "links": {
       "Community": "Jumuiya",
@@ -2672,6 +2694,7 @@
       "Application Menu": "Menyu ya Maombi",
       "Approve": "Idhinisha",
       "Assign Loan Officer": "Mpe Afisa Mikopo",
+      "Attach Loan Originator": "Ambatisha Mwanzilishi wa Mkopo",
       "Assign Staff": "Wape Wafanyakazi",
       "Block Account": "Zuia Akaunti",
       "Block Deposit": "Kuzuia Amana",
@@ -2774,7 +2797,8 @@
       "Apply Additional Shares": "Omba Ziada",
       "Redeem Shares": "Komboa Hisa",
       "Approve Additional Shares": "Idhinisha Hisa za Ziada",
-      "Reject Additional Shares": "Kataa Hisa za Ziada"
+      "Reject Additional Shares": "Kataa Hisa za Ziada",
+      "Tasks": "Kazi"
     },
     "placeholders": {
       "Add new server": "Ongeza seva mpya",
@@ -2961,6 +2985,7 @@
       "Create Hook": "Unda Hook",
       "Create Journal Entry": "Unda Ingizo la Jarida",
       "Create Loan Product": "Tengeneza Bidhaa ya Mkopo",
+      "Create Loan Originator": "Unda Mwanzilishi wa Mkopo",
       "Create Loans Account": "Unda Akaunti ya Mikopo",
       "Create New GL Account": "Chaguo hili hukuruhusu kuunda akaunti mpya za GL.",
       "Create Office": "Unda Ofisi",
@@ -3179,6 +3204,7 @@
       "Loan Collateral Details": "Maelezo ya Dhamana ya Mkopo",
       "Loan Disbursal": "Utoaji wa mkopo",
       "Loan Documents": "Nyaraka za Mkopo",
+      "Loan Originators are associated with loan accounts": "Waanzilishi wa Mikopo wanahusishwa na akaunti za mikopo",
       "Loan Products": "Bidhaa za Mkopo",
       "Loan Provisioning Criteria Organization": "Bainisha Vigezo vya Utoaji wa Mkopo kwa Shirika",
       "Loan Tranche Details": "Maelezo ya Mkopo",
@@ -3187,6 +3213,21 @@
       "Loan products define the rules, default settings": "Bidhaa za mkopo hufafanua sheria, mipangilio chaguo-msingi na vikwazo vya utoaji wa mikopo wa taasisi ya fedha. Bidhaa ya mkopo hutoa kiolezo cha akaunti nyingi za mkopo kwa wateja wa taasisi ya fedha.",
       "Loan": "Mkopo",
       "Loans": "Mikopo",
+      "DocumentCreatedBusinessEvent": "Tukio la Biashara la Hati Iliyoundwa",
+      "DocumentDeletedBusinessEvent": "Tukio la Biashara la Hati Iliyofutwa",
+      "LoanApplicationModifiedBusinessEvent": "Tukio la Biashara la Maombi ya Mkopo Yaliyorekebishwa",
+      "LoanApprovedAmountChangedBusinessEvent": "Tukio la Biashara la Kiasi Kilichoidhinishwa cha Mkopo Kimebadilishwa",
+      "LoanBuyDownFeeAdjustmentTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Marekebisho ya Ada ya Mkopo Iliyoundwa",
+      "LoanBuyDownFeeAmortizationAdjustmentTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Marekebisho ya Amortization ya Ada ya Mkopo Iliyoundwa",
+      "LoanBuyDownFeeAmortizationTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Amortization ya Ada ya Mkopo Iliyoundwa",
+      "LoanBuyDownFeeTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Ada ya Mkopo Iliyoundwa",
+      "LoanCapitalizedIncomeAdjustmentTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Marekebisho ya Mapato Yaliyothibitishwa ya Mkopo Iliyoundwa",
+      "LoanCapitalizedIncomeAmortizationAdjustmentTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Marekebisho ya Amortization ya Mapato Yaliyothibitishwa ya Mkopo Iliyoundwa",
+      "LoanCapitalizedIncomeAmortizationTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Amortization ya Mapato Yaliyothibitishwa ya Mkopo Iliyoundwa",
+      "LoanCapitalizedIncomeTransactionCreatedBusinessEvent": "Tukio la Biashara la Muamala wa Mapato Yaliyothibitishwa ya Mkopo Iliyoundwa",
+      "LoanUndoContractTerminationBusinessEvent": "Tukio la Biashara la Kubatilisha Kusitishwa kwa Mkataba wa Mkopo",
+      "LoanTransactionContractTerminationPostBusinessEvent": "Tukio la Biashara la Muamala wa Kusitishwa kwa Mkataba wa Mkopo",
+      "LoanWithdrawnByApplicantBusinessEvent": "Tukio la Biashara la Mkopo Ulioondolewa na Mwombaji",
       "Loans Account Charges": "Malipo ya Akaunti ya Mikopo",
       "Loans Account Transactions": "Miamala ya Akaunti ya Mikopo",
       "Loans Delinquency Tags": "Lebo za Uhalifu wa Mikopo",
@@ -3203,6 +3244,7 @@
       "Manage Funds": "Dhibiti Fedha",
       "Manage Holidays": "Dhibiti Sikukuu",
       "Manage Hooks": "Kusimamia Hooks",
+      "Manage Loan Originators": "Dhibiti Waanzilishi wa Mikopo",
       "Manage Offices": "Kusimamia Ofisi",
       "Manage Offices page allows you to create, edit": "Ukurasa wa Dhibiti Ofisi hukuruhusu kuunda, kuhariri na kuongeza ofisi ndani ya shirika lako.",
       "Manage Reports": "Dhibiti Ripoti",
@@ -3508,7 +3550,14 @@
         "REOPEN": "Fungua tena",
         "WITHDRAW": "Toa",
         "DEPOSIT": "Weka",
-        "TRANSFER": "Hamisha"
+        "TRANSFER": "Hamisha",
+        "POSTINTEREST": "Chapisha riba",
+        "CALCULATEINTEREST": "Hesabu riba",
+        "ASSIGNSTAFF": "Teua wafanyakazi",
+        "ACCEPTTRANSFER": "Kubali uhamishaji",
+        "PROPOSETRANSFER": "Pendekeza uhamishaji",
+        "REPAYMENT": "Malipo",
+        "DISBURSETOSAVINGS": "Toa kwenye akiba"
       },
       "entities": {
         "ROLE": "Jukumu",
@@ -3537,7 +3586,11 @@
         "GUARANTOR": "Mdhamini",
         "SHAREPRODUCT": "Bidhaa ya hisa",
         "FIXEDDEPOSITPRODUCT": "Bidhaa ya amana isiyobadilika",
-        "RECURRINGDEPOSITPRODUCT": "Bidhaa ya amana ya mara kwa mara"
+        "FIXEDDEPOSITACCOUNT": "Akaunti ya amana isiyobadilika",
+        "RECURRINGDEPOSITPRODUCT": "Bidhaa ya amana ya mara kwa mara",
+        "RECURRINGDEPOSITACCOUNT": "Akaunti ya amana ya mara kwa mara",
+        "ACCOUNTTRANSFER": "Uhamishaji wa akaunti",
+        "SSBENEFICIARYTPT": "Wapokeaji TPT Huduma ya Kujitegemea"
       }
     },
     "titles": {
@@ -3761,7 +3814,10 @@
     "loan product will be active and available to clients": "Tarehe ambayo bidhaa ya mkopo itaanza kutumika na inapatikana kwa wateja. Ikiwa tupu, bidhaa ya mkopo itaanza kutumika mara tu itakapoundwa.",
     "loan product will become inactive and unavailable to clients": "Tarehe ambayo bidhaa ya mkopo itaacha kutumika na haitapatikana kwa wateja. Ikiwa tupu, bidhaa ya kupakia haitafanya kazi kamwe.",
     "Refund transactions where interest refund will automatically be calculated": "Shughuli za kurejesha pesa ambapo urejeshaji wa riba utahesabiwa kiotomatiki",
-    "Create Interest Refund": "Unda Marejesho ya Riba"
+    "Create Interest Refund": "Unda Marejesho ya Riba",
+    "ACTIVE": "INAYOENDELEA",
+    "PENDING": "INAKARIBISHWA",
+    "INACTIVE": "HAITUMIKI"
   },
   "countries": {
     "AF": "Afghanistani",

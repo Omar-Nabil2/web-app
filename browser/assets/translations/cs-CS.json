@@ -347,6 +347,7 @@
       "Attach Meeting": "Připojit schůzku",
       "Attendance": "Účast",
       "Back": "Zadní",
+      "Back to Account": "Zpět na účet",
       "Bar Chart": "Sloupcový graf",
       "Browse": "Procházet",
       "Bulk JLG Loan Application": "Hromadná žádost o půjčku JLG",
@@ -548,6 +549,7 @@
       "View Journal Entries": "Zobrazit záznamy deníku",
       "View Standing Instructions": "Prohlédněte si stálé pokyny",
       "View Transactions History": "Zobrazit historii transakcí",
+      "View Transactions": "Zobrazit transakce",
       "Waive": "vzdát se",
       "Waive Charge": "Zřeknutí se poplatku",
       "Week": "Týden",
@@ -555,7 +557,10 @@
       "View Active Charges": "Zobrazit aktivní poplatky",
       "View Inactive Charges": "Zobrazit neaktivní poplatky",
       "Yes": "Ano",
-      "Is Self Service": "Je samoobsluha"
+      "Is Self Service": "Je samoobsluha",
+      "Advanced Search": "Rozšířené vyhledávání",
+      "Show advanced search": "Zobrazit rozšířené vyhledávání",
+      "Hide advanced search": "Skrýt rozšířené vyhledávání"
     },
     "catalogs": {
       "Interest payment waiver": "Prominutí platby úroků",
@@ -923,6 +928,8 @@
       "Assets / Liability": "Aktiva / pasiva",
       "Audit Trails": "Audit Trails",
       "Balance": "Zůstatek",
+      "Beneficiary": "Příjemce",
+      "Beneficiary Selection": "Výběr příjemce",
       "Block Savings Account": "Blokovat spořicí účet",
       "Bulk Import": "Hromadný import",
       "Bulk Loan Reassignment": "Hromadné přeřazení půjčky",
@@ -1111,6 +1118,7 @@
       "Manage Holidays": "Spravovat svátky",
       "Manage Hooks": "Správa háčků",
       "Manage Jobs": "Správa úloh",
+      "Manage Loan Originators": "Správa poskytovatelů úvěrů",
       "Manage Offices": "Správa kanceláří",
       "Manage Reports": "Správa přehledů",
       "Manage Roles and Permissions": "Správa rolí a oprávnění",
@@ -1227,6 +1235,10 @@
       "Transaction Reverted": "Transakce vrácena",
       "Transactions": "Transakce",
       "Transfer Details": "Podrobnosti o převodu",
+      "Transfer Failed": "Převod se nezdařil",
+      "Transfer Status": "Stav převodu",
+      "Transfer Successful": "Převod úspěšný",
+      "Transfer Summary": "Souhrn převodu",
       "Transferred From": "Převedeno z",
       "Transferred To": "Převeden k",
       "Transferring From Details": "Přenos z podrobností",
@@ -1281,7 +1293,8 @@
       "Important Dates": "Důležitá data",
       "Contact Information": "Kontaktní informace",
       "Classification": "Klasifikace",
-      "Status": "Stav"
+      "Status": "Stav",
+      "Pending Tasks": "Čekající úkoly"
     },
     "inputs": {
       "Terms": "Podmínky",
@@ -1835,6 +1848,7 @@
       "Hook Template": "Šablona háčku",
       "Host": "Hostitel",
       "Host Name": "Název hostitele",
+      "Hour": "Hodina",
       "ID": "ID",
       "INTEREST RATE CHART": "TABULKA ÚROKOVÝCH SAZEB",
       "Id": "Id",
@@ -1976,6 +1990,7 @@
       "Loan Documents": "Dokumenty o půjčce",
       "Loan Id": "ID půjčky",
       "Loan Officer": "Úvěrový úředník",
+      "Loan Originator": "Poskytovatel úvěrů",
       "Loan Outstanding Amount": "Nesplacená částka úvěru",
       "Loan Outstanding Percentage": "Procento nesplacené půjčky",
       "Loan Parameters": "Parametry půjčky",
@@ -2068,6 +2083,7 @@
       "Minimum Value": "Minimální hodnota",
       "Minimum days between disbursal and first repayment date": "Minimální dny mezi výplatou a datem první splátky",
       "Minimum gap between Installments": "Minimální mezera mezi splátkami",
+      "Minute": "Minuta",
       "Mobile": "mobilní, pohybliví",
       "Mobile Banking App": "Aplikace pro mobilní bankovnictví",
       "Mobile No": "Mobil č",
@@ -2646,7 +2662,12 @@
       "Skip Interest Refund Transaction Posting": "Přeskočit zaúčtování vrácení úroků",
       "Available Disbursement Amount (with Over Applied)": "Dostupná částka k výplatě (s přeplatkem)",
       "Overdue": "Po splatnosti",
-      "Overdue Fees": "Poplatky po splatnosti"
+      "Overdue Fees": "Poplatky po splatnosti",
+      "From date": "Datum od",
+      "Resource id": "ID zdroje",
+      "To date": "Datum do",
+      "Select action": "Vybrat akci",
+      "Select entity": "Vybrat entitu"
     },
     "links": {
       "Community": "Společenství",
@@ -2677,6 +2698,7 @@
       "Application Menu": "Nabídka aplikací",
       "Approve": "Schvalovat",
       "Assign Loan Officer": "Přiřadit úvěrového úředníka",
+      "Attach Loan Originator": "Připojit poskytovatele půjčky",
       "Assign Staff": "Přiřadit personál",
       "Block Account": "Blokovat účet",
       "Block Deposit": "Blokový vklad",
@@ -2779,7 +2801,8 @@
       "Apply Additional Shares": "Použít další",
       "Redeem Shares": "Uplatnit akcie",
       "Approve Additional Shares": "Schválit další akcie",
-      "Reject Additional Shares": "Odmítnout další akcie"
+      "Reject Additional Shares": "Odmítnout další akcie",
+      "Tasks": "Úkoly"
     },
     "placeholders": {
       "Add new server": "Přidat nový server",
@@ -2966,6 +2989,7 @@
       "Create Hook": "Vytvořte háček",
       "Create Journal Entry": "Vytvořit položku deníku",
       "Create Loan Product": "Vytvořte produkt půjčky",
+      "Create Loan Originator": "Vytvořit poskytovatele úvěrů",
       "Create Loans Account": "Vytvořit úvěrový účet",
       "Create New GL Account": "Tato možnost umožňuje vytvářet nové účty hlavní knihy.",
       "Create Office": "Vytvořit Office",
@@ -3184,6 +3208,7 @@
       "Loan Collateral Details": "Podrobnosti o zajištění úvěru",
       "Loan Disbursal": "Vyplacení půjčky",
       "Loan Documents": "Dokumenty o půjčce",
+      "Loan Originators are associated with loan accounts": "Poskytovatelé půjček jsou spojeni s účty půjček",
       "Loan Products": "Úvěrové produkty",
       "Loan Provisioning Criteria Organization": "Definujte kritéria pro poskytování úvěrů pro organizaci",
       "Loan Tranche Details": "Podrobnosti o tranši úvěru",
@@ -3192,6 +3217,21 @@
       "Loan products define the rules, default settings": "Úvěrové produkty definují pravidla, výchozí nastavení a omezení pro nabídky půjček finanční instituce. Úvěrový produkt poskytuje pro klienty finanční instituce šablonu pro více úvěrových účtů.",
       "Loan": "Půjčka",
       "Loans": "Půjčky",
+      "DocumentCreatedBusinessEvent": "Obchodní událost vytvoření dokumentu",
+      "DocumentDeletedBusinessEvent": "Obchodní událost smazání dokumentu",
+      "LoanApplicationModifiedBusinessEvent": "Obchodní událost úpravy žádosti o úvěr",
+      "LoanApprovedAmountChangedBusinessEvent": "Obchodní událost změny schválené částky úvěru",
+      "LoanBuyDownFeeAdjustmentTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce úpravy poplatku za buydown úvěru",
+      "LoanBuyDownFeeAmortizationAdjustmentTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce úpravy amortizace poplatku za buydown úvěru",
+      "LoanBuyDownFeeAmortizationTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce amortizace poplatku za buydown úvěru",
+      "LoanBuyDownFeeTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce poplatku za buydown úvěru",
+      "LoanCapitalizedIncomeAdjustmentTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce úpravy kapitalizovaného příjmu úvěru",
+      "LoanCapitalizedIncomeAmortizationAdjustmentTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce úpravy amortizace kapitalizovaného příjmu úvěru",
+      "LoanCapitalizedIncomeAmortizationTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce amortizace kapitalizovaného příjmu úvěru",
+      "LoanCapitalizedIncomeTransactionCreatedBusinessEvent": "Obchodní událost vytvoření transakce kapitalizovaného příjmu úvěru",
+      "LoanUndoContractTerminationBusinessEvent": "Obchodní událost zrušení ukončení smlouvy o úvěru",
+      "LoanTransactionContractTerminationPostBusinessEvent": "Obchodní událost transakce ukončení smlouvy o úvěru",
+      "LoanWithdrawnByApplicantBusinessEvent": "Obchodní událost stažení úvěru žadatelem",
       "Loans Account Charges": "Poplatky za úvěrový účet",
       "Loans Account Transactions": "Úvěrový účet transakce",
       "Loans Delinquency Tags": "Štítky proplácení úvěrů",
@@ -3208,6 +3248,7 @@
       "Manage Funds": "Spravovat fondy",
       "Manage Holidays": "Spravovat svátky",
       "Manage Hooks": "Správa háčků",
+      "Manage Loan Originators": "Správa poskytovatelů úvěrů",
       "Manage Offices": "Správa kanceláří",
       "Manage Offices page allows you to create, edit": "Stránka Správa kanceláří umožňuje vytvářet, upravovat a přidávat kanceláře ve vaší organizaci.",
       "Manage Reports": "Správa přehledů",
@@ -3511,7 +3552,14 @@
       "REOPEN": "Znovu otevřít",
       "WITHDRAW": "Vybrat",
       "DEPOSIT": "Vložit",
-      "TRANSFER": "Převést"
+      "TRANSFER": "Převést",
+      "POSTINTEREST": "Zaúčtovat úrok",
+      "CALCULATEINTEREST": "Vypočítat úrok",
+      "ASSIGNSTAFF": "Přiřadit personál",
+      "ACCEPTTRANSFER": "Přijmout převod",
+      "PROPOSETRANSFER": "Navrhnout převod",
+      "REPAYMENT": "Splátka",
+      "DISBURSETOSAVINGS": "Vyplatit na účet úspor"
     },
     "entities": {
       "ROLE": "Role",
@@ -3540,7 +3588,11 @@
       "GUARANTOR": "Ručitel",
       "SHAREPRODUCT": "Produkt podílu",
       "FIXEDDEPOSITPRODUCT": "Produkt termínovaného vkladu",
-      "RECURRINGDEPOSITPRODUCT": "Produkt opakovaného vkladu"
+      "FIXEDDEPOSITACCOUNT": "Účet termínovaného vkladu",
+      "RECURRINGDEPOSITPRODUCT": "Produkt opakovaného vkladu",
+      "RECURRINGDEPOSITACCOUNT": "Účet opakovaného vkladu",
+      "ACCOUNTTRANSFER": "Převod účtu",
+      "SSBENEFICIARYTPT": "Příjemci TPT Samoobslužné Služby"
     }
   },
   "titles": {
@@ -3765,7 +3817,10 @@
     "loan product will be active and available to clients": "Datum, kdy bude úvěrový produkt aktivní a dostupný klientům. Pokud nevyplníte, bude úvěrový produkt aktivní, jakmile bude vytvořen.",
     "loan product will become inactive and unavailable to clients": "Datum, kdy se úvěrový produkt stane neaktivním a nedostupným pro klienty. Pokud je prázdné, produkt zatížení se nikdy nestane neaktivním.",
     "Refund transactions where interest refund will automatically be calculated": "Transakce s vrácením peněz, kde bude automaticky vypočítána refundace úroků",
-    "Create Interest Refund": "Vytvořit vrácení úroků"
+    "Create Interest Refund": "Vytvořit vrácení úroků",
+    "ACTIVE": "AKTIVNÍ",
+    "PENDING": "ČEKÁ NA VYŘÍZENÍ",
+    "INACTIVE": "NEAKTIVNÍ"
   },
   "countries": {
     "AF": "Afghánistán",

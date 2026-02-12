@@ -347,6 +347,7 @@
       "Attach Meeting": "회의 첨부",
       "Attendance": "출석",
       "Back": "뒤쪽에",
+      "Back to Account": "계좌로 돌아가기",
       "Bar Chart": "막대 차트",
       "Browse": "검색",
       "Bulk JLG Loan Application": "대량 JLG 대출 신청",
@@ -548,6 +549,7 @@
       "View Journal Entries": "저널 항목 보기",
       "View Standing Instructions": "기립 지침 보기",
       "View Transactions History": "거래 내역 보기",
+      "View Transactions": "거래 보기",
       "Waive": "면제",
       "Waive Charge": "요금 면제",
       "Week": "주",
@@ -555,7 +557,10 @@
       "View Active Charges": "활성 요금 보기",
       "View Inactive Charges": "비활성 요금 보기",
       "Yes": "예",
-      "Is Self Service": "셀프 서비스입니다"
+      "Is Self Service": "셀프 서비스입니다",
+      "Advanced Search": "고급 검색",
+      "Show advanced search": "고급 검색 표시",
+      "Hide advanced search": "고급 검색 숨기기"
     },
     "catalogs": {
       "Interest payment waiver": "이자 지급 면제",
@@ -924,6 +929,8 @@
       "Assets / Liability": "자산/부채",
       "Audit Trails": "감사 추적",
       "Balance": "균형",
+      "Beneficiary": "수익자",
+      "Beneficiary Selection": "수익자 선택",
       "Block Savings Account": "블록저축계좌",
       "Bulk Import": "대량 가져오기",
       "Bulk Loan Reassignment": "대량대출 재할당",
@@ -1112,6 +1119,7 @@
       "Manage Holidays": "휴일 관리",
       "Manage Hooks": "후크 관리",
       "Manage Jobs": "채용정보 관리",
+      "Manage Loan Originators": "대출 담당자 관리",
       "Manage Offices": "사무실 관리",
       "Manage Reports": "보고서 관리",
       "Manage Roles and Permissions": "역할 및 권한 관리",
@@ -1229,6 +1237,10 @@
       "Transaction Reverted": "거래가 되돌려졌습니다.",
       "Transactions": "업무",
       "Transfer Details": "전송 세부 정보",
+      "Transfer Failed": "이체 실패",
+      "Transfer Status": "이체 상태",
+      "Transfer Successful": "이체 성공",
+      "Transfer Summary": "이체 요약",
       "Transferred From": "다음에서 전송됨",
       "Transferred To": "로 전송",
       "Transferring From Details": "세부정보에서 전송 중",
@@ -1283,7 +1295,8 @@
       "Important Dates": "중요한 날짜",
       "Contact Information": "연락처 정보",
       "Classification": "분류",
-      "Status": "상태"
+      "Status": "상태",
+      "Pending Tasks": "보류 중인 작업"
     },
     "inputs": {
       "Terms": "약관",
@@ -1837,6 +1850,7 @@
       "Hook Template": "후크 템플릿",
       "Host": "주인",
       "Host Name": "호스트 이름",
+      "Hour": "시",
       "ID": "ID",
       "INTEREST RATE CHART": "금리 차트",
       "Id": "ID",
@@ -1978,6 +1992,7 @@
       "Loan Documents": "대출 서류",
       "Loan Id": "대출 ID",
       "Loan Officer": "대출 담당자",
+      "Loan Originator": "대출 담당자",
       "Loan Outstanding Amount": "대출 미결제 금액",
       "Loan Outstanding Percentage": "대출 미결제 비율",
       "Loan Parameters": "대출 매개변수",
@@ -2070,6 +2085,7 @@
       "Minimum Value": "최소값",
       "Minimum days between disbursal and first repayment date": "지불 날짜와 첫 번째 상환 날짜 사이의 최소 일수",
       "Minimum gap between Installments": "할부 간 최소 간격",
+      "Minute": "분",
       "Mobile": "이동하는",
       "Mobile Banking App": "모바일 뱅킹 앱",
       "Mobile No": "모바일 번호",
@@ -2646,7 +2662,12 @@
       "Income from Buy down fees": "매입 수수료 수입",
       "Buy down fee Expense": "매입 수수료 비용",
       "Skip Interest Refund Transaction Posting": "이자 환불 거래 게시 건너뛰기",
-      "Available Disbursement Amount (with Over Applied)": "초과 적용 금액을 포함한 사용 가능한 지급 금액"
+      "Available Disbursement Amount (with Over Applied)": "초과 적용 금액을 포함한 사용 가능한 지급 금액",
+      "From date": "시작일",
+      "Resource id": "리소스 ID",
+      "To date": "종료일",
+      "Select action": "작업 선택",
+      "Select entity": "엔티티 선택"
     },
     "links": {
       "Community": "지역 사회",
@@ -2677,6 +2698,7 @@
       "Application Menu": "애플리케이션 메뉴",
       "Approve": "승인하다",
       "Assign Loan Officer": "대출 담당자 지정",
+      "Attach Loan Originator": "대출 담당자 첨부",
       "Assign Staff": "직원 배정",
       "Block Account": "블록 계정",
       "Block Deposit": "블록입금",
@@ -2778,7 +2800,8 @@
       "Apply Additional Shares": "추가 신청",
       "Redeem Shares": "주식 상환",
       "Approve Additional Shares": "추가 공유 승인",
-      "Reject Additional Shares": "추가 공유 거부"
+      "Reject Additional Shares": "추가 공유 거부",
+      "Tasks": "작업"
     },
     "placeholders": {
       "Add new server": "새 서버 추가",
@@ -2965,6 +2988,7 @@
       "Create Hook": "후크 생성",
       "Create Journal Entry": "분개 항목 만들기",
       "Create Loan Product": "대출상품 생성",
+      "Create Loan Originator": "대출 담당자 생성",
       "Create Loans Account": "대출 계좌 만들기",
       "Create New GL Account": "이 옵션을 사용하면 새 GL 계정을 만들 수 있습니다.",
       "Create Office": "사무실 만들기",
@@ -3183,6 +3207,7 @@
       "Loan Collateral Details": "대출 담보 세부정보",
       "Loan Disbursal": "대출금 지급",
       "Loan Documents": "대출 서류",
+      "Loan Originators are associated with loan accounts": "대출 담당자는 대출 계좌와 관련이 있습니다.",
       "Loan Products": "대출상품",
       "Loan Provisioning Criteria Organization": "조직에 대한 대출 준비 기준 정의",
       "Loan Tranche Details": "대출 트랜치 세부정보",
@@ -3191,6 +3216,21 @@
       "Loan products define the rules, default settings": "대출 상품은 금융 기관의 대출 상품에 대한 규칙, 기본 설정 및 제약 조건을 정의합니다. 대출 상품은 금융 기관 고객을 위한 여러 대출 계정에 대한 템플릿을 제공합니다.",
       "Loan": "대출",
       "Loans": "대출",
+      "DocumentCreatedBusinessEvent": "문서 생성 비즈니스 이벤트",
+      "DocumentDeletedBusinessEvent": "문서 삭제 비즈니스 이벤트",
+      "LoanApplicationModifiedBusinessEvent": "대출 신청서 수정 비즈니스 이벤트",
+      "LoanApprovedAmountChangedBusinessEvent": "대출 승인 금액 변경 비즈니스 이벤트",
+      "LoanBuyDownFeeAdjustmentTransactionCreatedBusinessEvent": "대출 바이다운 수수료 조정 거래 생성 비즈니스 이벤트",
+      "LoanBuyDownFeeAmortizationAdjustmentTransactionCreatedBusinessEvent": "대출 바이다운 수수료 상각 조정 거래 생성 비즈니스 이벤트",
+      "LoanBuyDownFeeAmortizationTransactionCreatedBusinessEvent": "대출 바이다운 수수료 상각 거래 생성 비즈니스 이벤트",
+      "LoanBuyDownFeeTransactionCreatedBusinessEvent": "대출 바이다운 수수료 거래 생성 비즈니스 이벤트",
+      "LoanCapitalizedIncomeAdjustmentTransactionCreatedBusinessEvent": "대출 자본화 수입 조정 거래 생성 비즈니스 이벤트",
+      "LoanCapitalizedIncomeAmortizationAdjustmentTransactionCreatedBusinessEvent": "대출 자본화 수입 상각 조정 거래 생성 비즈니스 이벤트",
+      "LoanCapitalizedIncomeAmortizationTransactionCreatedBusinessEvent": "대출 자본화 수입 상각 거래 생성 비즈니스 이벤트",
+      "LoanCapitalizedIncomeTransactionCreatedBusinessEvent": "대출 자본화 수입 거래 생성 비즈니스 이벤트",
+      "LoanUndoContractTerminationBusinessEvent": "대출 계약 종료 취소 비즈니스 이벤트",
+      "LoanTransactionContractTerminationPostBusinessEvent": "대출 계약 종료 거래 비즈니스 이벤트",
+      "LoanWithdrawnByApplicantBusinessEvent": "신청자에 의한 대출 철회 비즈니스 이벤트",
       "Loans Account Charges": "대출 계정 비용",
       "Loans Account Transactions": "대출계좌 거래",
       "Loans Delinquency Tags": "대출 연체 태그",
@@ -3207,6 +3247,7 @@
       "Manage Funds": "자금 관리",
       "Manage Holidays": "휴일 관리",
       "Manage Hooks": "후크 관리",
+      "Manage Loan Originators": "대출 담당자 관리",
       "Manage Offices": "사무실 관리",
       "Manage Offices page allows you to create, edit": "사무실 관리 페이지에서는 조직 내 사무실을 생성, 편집, 추가할 수 있습니다.",
       "Manage Reports": "보고서 관리",
@@ -3512,7 +3553,14 @@
         "REOPEN": "다시 열기",
         "WITHDRAW": "인출",
         "DEPOSIT": "입금",
-        "TRANSFER": "이체"
+        "TRANSFER": "이체",
+        "POSTINTEREST": "이자 게시",
+        "CALCULATEINTEREST": "이자 계산",
+        "ASSIGNSTAFF": "직원 배정",
+        "ACCEPTTRANSFER": "이전 수락",
+        "PROPOSETRANSFER": "이전 제안",
+        "REPAYMENT": "상환",
+        "DISBURSETOSAVINGS": "저축으로 지급"
       },
       "entities": {
         "ROLE": "역할",
@@ -3541,7 +3589,11 @@
         "GUARANTOR": "보증인",
         "SHAREPRODUCT": "주식 상품",
         "FIXEDDEPOSITPRODUCT": "정기 예금 상품",
-        "RECURRINGDEPOSITPRODUCT": "적립 예금 상품"
+        "FIXEDDEPOSITACCOUNT": "정기 예금 계좌",
+        "RECURRINGDEPOSITPRODUCT": "적립 예금 상품",
+        "RECURRINGDEPOSITACCOUNT": "적립 예금 계좌",
+        "ACCOUNTTRANSFER": "계좌 이체",
+        "SSBENEFICIARYTPT": "셀프 서비스 수혜자 TPT"
       }
     },
     "titles": {
@@ -3765,7 +3817,10 @@
     "loan product will be active and available to clients": "대출 상품이 활성화되어 고객에게 제공되는 날짜입니다. 비어 있으면 대출 상품이 생성되자마자 활성화됩니다.",
     "loan product will become inactive and unavailable to clients": "대출 상품이 비활성화되어 고객이 사용할 수 없게 되는 날짜입니다. 비어 있으면 로드 제품이 비활성화되지 않습니다.",
     "Refund transactions where interest refund will automatically be calculated": "이자 환불이 자동으로 계산되는 환불 거래",
-    "Create Interest Refund": "이자 환불 생성"
+    "Create Interest Refund": "이자 환불 생성",
+    "ACTIVE": "활동적인",
+    "PENDING": "보류 중",
+    "INACTIVE": "비활성"
   },
   "countries": {
     "AF": "아프가니스탄",
