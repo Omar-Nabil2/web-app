@@ -1297,6 +1297,11 @@
       "Pending Tasks": "Čekající úkoly"
     },
     "inputs": {
+      "Floating rate": "Plovoucí sazba",
+      "Differential rate": "Diferenční sazba",
+      "Minimum interest rate": "Minimální úroková sazba",
+      "Interest rate": "Úroková sazba",
+      "Maximum interest rate": "Maximální úroková sazba",
       "Terms": "Podmínky",
       "Settings": "Nastavení",
       "accounting": {
@@ -1639,6 +1644,7 @@
       "Decimals to Display": "Zobrazení desetinných míst",
       "Default": "Výchozí",
       "Default Date Format": "Výchozí formát data",
+      "Default Datetime Format": "Výchozí formát data a času",
       "Default Font": "Výchozí písmo",
       "Default Language": "Základní jazyk",
       "Default Savings Account": "Výchozí spořicí účet",
@@ -1752,6 +1758,12 @@
       "External ID": "Externí ID",
       "External Id": "Externí id",
       "External id": "Externí id",
+      "External ID not found": "Externí ID nenalezeno",
+      "External ID lookup failed": "Vyhledání externího ID selhalo",
+      "External ID format is invalid": "Formát externího ID je neplatný",
+      "External ID verified successfully": "Externí ID úspěšně ověřeno",
+      "Looking up External ID...": "Vyhledávání externího ID...",
+      "External ID lookup timed out": "Vypršel časový limit vyhledání externího ID",
       "event with entity name of": "událost s názvem entity",
       "FAMILY MEMBERS": "ČLENOVÉ RODINY",
       "FCM End Point": "Koncový bod FCM",
@@ -3601,7 +3613,19 @@
     "Login": "Přihlásit se"
   },
   "messages": {
-    "No Data Found": "Nebyla nalezena žádná data"
+    "No Data Found": "Nebyla nalezena žádná data",
+    "No Upcoming Charges Available": "Žádné nadcházející poplatky k dispozici",
+    "No Active Loan Accounts Available": "Žádné aktivní úvěrové účty k dispozici",
+    "No Closed Loan Accounts Available": "Žádné uzavřené úvěrové účty k dispozici",
+    "No Active Saving Accounts Available": "Žádné aktivní spořicí účty k dispozici",
+    "No Closed Saving Accounts Available": "Žádné uzavřené spořicí účty k dispozici",
+    "No Active Fixed Deposit Accounts Available": "Žádné aktivní účty s pevným vkladem k dispozici",
+    "No Closed Fixed Deposit Accounts Available": "Žádné uzavřené účty s pevným vkladem k dispozici",
+    "No Active Recurring Deposit Accounts Available": "Žádné aktivní opakující se účty s vkladem k dispozici",
+    "No Closed Recurring Deposit Accounts Available": "Žádné uzavřené opakující se účty s vkladem k dispozici",
+    "No Active Share Accounts Available": "Žádné aktivní účty podílů k dispozici",
+    "No Closed Share Accounts Available": "Žádné uzavřené účty podílů k dispozici",
+    "No Collateral Data Available": "Žádná data o kolaterálu k dispozici"
   },
   "languages": {
     "cs-CS": "Čeština",

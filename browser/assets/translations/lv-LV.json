@@ -1298,6 +1298,11 @@
       "Pending Tasks": "Pending Tasks"
     },
     "inputs": {
+      "Floating rate": "Mainīgā likme",
+      "Differential rate": "Diferenciālā likme",
+      "Minimum interest rate": "Minimālā procentu likme",
+      "Interest rate": "Procentu likme",
+      "Maximum interest rate": "Maksimālā procentu likme",
       "Terms": "Noteikumi",
       "Settings": "Iestatījumi",
       "accounting": {
@@ -1641,6 +1646,7 @@
       "Decimals to Display": "Parādāmie decimālskaitļi",
       "Default": "Noklusējums",
       "Default Date Format": "Noklusējuma datuma formāts",
+      "Default Datetime Format": "Noklusējuma datuma un laika formāts",
       "Default Font": "Noklusējuma fonts",
       "Default Language": "Noklusējuma valoda",
       "Default Savings Account": "Noklusējuma krājkonts",
@@ -1754,6 +1760,12 @@
       "External ID": "Ārējais ID",
       "External Id": "Ārējais ID",
       "External id": "Ārējais id",
+      "External ID not found": "Ārējais ID nav atrasts",
+      "External ID lookup failed": "Ārējā ID meklēšana neizdevās",
+      "External ID format is invalid": "Ārējā ID formāts nav derīgs",
+      "External ID verified successfully": "Ārējais ID veiksmīgi verificēts",
+      "Looking up External ID...": "Meklē ārējo ID...",
+      "External ID lookup timed out": "Ārējā ID meklēšanas laiks beidzās",
       "event with entity name of": "notikums ar entītijas nosaukumu",
       "FAMILY MEMBERS": "ĢIMENES LOCEKĻI",
       "FCM End Point": "FCM beigu punkts",
@@ -3602,7 +3614,19 @@
       "Login": "Pieslēgties"
     },
     "messages": {
-      "No Data Found": "Dati nav atrasti"
+      "No Data Found": "Dati nav atrasti",
+      "No Upcoming Charges Available": "Nav gaidāmo maksu",
+      "No Active Loan Accounts Available": "Nav aktīvu aizdevumu kontu",
+      "No Closed Loan Accounts Available": "Nav slēgtu aizdevumu kontu",
+      "No Active Saving Accounts Available": "Nav aktīvu krājkontu",
+      "No Closed Saving Accounts Available": "Nav slēgtu krājkontu",
+      "No Active Fixed Deposit Accounts Available": "Nav aktīvu termiņnoguldījumu kontu",
+      "No Closed Fixed Deposit Accounts Available": "Nav slēgtu termiņnoguldījumu kontu",
+      "No Active Recurring Deposit Accounts Available": "Nav aktīvu periodisku noguldījumu kontu",
+      "No Closed Recurring Deposit Accounts Available": "Nav slēgtu periodisku noguldījumu kontu",
+      "No Active Share Accounts Available": "Nav aktīvu akciju kontu",
+      "No Closed Share Accounts Available": "Nav slēgtu akciju kontu",
+      "No Collateral Data Available": "Nav pieejamu nodrošinājuma datu"
     }
   },
   "languages": {

@@ -1299,6 +1299,11 @@
       "Pending Tasks": "보류 중인 작업"
     },
     "inputs": {
+      "Floating rate": "변동 금리",
+      "Differential rate": "차등 금리",
+      "Minimum interest rate": "최소 이자율",
+      "Interest rate": "이자율",
+      "Maximum interest rate": "최대 이자율",
       "Terms": "약관",
       "Settings": "설정",
       "accounting": {
@@ -1642,6 +1647,7 @@
       "Decimals to Display": "표시할 소수점",
       "Default": "기본",
       "Default Date Format": "기본 날짜 형식",
+      "Default Datetime Format": "기본 날짜 및 시간 형식",
       "Default Font": "기본 글꼴",
       "Default Language": "기본 설정 언어",
       "Default Savings Account": "기본 저축 계좌",
@@ -1755,6 +1761,12 @@
       "External ID": "외부 ID",
       "External Id": "외부 ID",
       "External id": "외부 ID",
+      "External ID not found": "외부 ID를 찾을 수 없습니다",
+      "External ID lookup failed": "외부 ID 조회에 실패했습니다",
+      "External ID format is invalid": "외부 ID 형식이 올바르지 않습니다",
+      "External ID verified successfully": "외부 ID가 성공적으로 확인되었습니다",
+      "Looking up External ID...": "외부 ID 조회 중...",
+      "External ID lookup timed out": "외부 ID 조회 시간이 초과되었습니다",
       "event with entity name of": "엔터티 이름이 다음과 같은 이벤트",
       "FAMILY MEMBERS": "가족 구성원들",
       "FCM End Point": "FCM 끝점",
@@ -3602,7 +3614,19 @@
       "Login": "로그인"
     },
     "messages": {
-      "No Data Found": "데이터를 찾을 수 없음"
+      "No Data Found": "데이터를 찾을 수 없음",
+      "No Upcoming Charges Available": "예정된 청구가 없습니다",
+      "No Active Loan Accounts Available": "활성 대출 계정이 없습니다",
+      "No Closed Loan Accounts Available": "해지된 대출 계정이 없습니다",
+      "No Active Saving Accounts Available": "활성 저축 계정이 없습니다",
+      "No Closed Saving Accounts Available": "해지된 저축 계정이 없습니다",
+      "No Active Fixed Deposit Accounts Available": "활성 정기 예금 계정이 없습니다",
+      "No Closed Fixed Deposit Accounts Available": "해지된 정기 예금 계정이 없습니다",
+      "No Active Recurring Deposit Accounts Available": "활성 적립식 예금 계정이 없습니다",
+      "No Closed Recurring Deposit Accounts Available": "해지된 적립식 예금 계정이 없습니다",
+      "No Active Share Accounts Available": "활성 주식 계정이 없습니다",
+      "No Closed Share Accounts Available": "해지된 주식 계정이 없습니다",
+      "No Collateral Data Available": "담보 데이터가 없습니다"
     }
   },
   "languages": {

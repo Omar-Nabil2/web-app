@@ -1302,6 +1302,11 @@
       "Global Impact": "Global Impact"
     },
     "inputs": {
+      "Floating rate": "Floating Rate",
+      "Differential rate": "Differential Rate",
+      "Minimum interest rate": "Minimum Interest Rate",
+      "Interest rate": "Interest Rate",
+      "Maximum interest rate": "Maximum Interest Rate",
       "Terms": "Terms",
       "Settings": "Settings",
       "accounting": {
@@ -1646,6 +1651,7 @@
       "Decimals to Display": "Decimals to Display",
       "Default": "Default",
       "Default Date Format": "Default Date Format",
+      "Default Datetime Format": "Default Datetime Format",
       "Default Font": "Default Font",
       "Default Language": "Default Language",
       "Default Savings Account": "Default Savings Account",
@@ -1760,6 +1766,12 @@
       "External ID": "External ID",
       "External Id": "External Id",
       "External id": "External id",
+      "External ID not found": "External ID not found",
+      "External ID lookup failed": "External ID lookup failed",
+      "External ID format is invalid": "External ID format is invalid",
+      "External ID verified successfully": "External ID verified successfully",
+      "Looking up External ID...": "Looking up External ID...",
+      "External ID lookup timed out": "External ID lookup timed out",
       "event with entity name of": "event with entity name of",
       "FAMILY MEMBERS": "FAMILY MEMBERS",
       "FCM End Point": "FCM End Point",
@@ -3712,7 +3724,19 @@
       "Login": "Login"
     },
     "messages": {
-      "No Data Found": "No Data Found"
+      "No Data Found": "No Data Found",
+      "No Upcoming Charges Available": "No Upcoming Charges Available",
+      "No Active Loan Accounts Available": "No Active Loan Accounts Available",
+      "No Closed Loan Accounts Available": "No Closed Loan Accounts Available",
+      "No Active Saving Accounts Available": "No Active Saving Accounts Available",
+      "No Closed Saving Accounts Available": "No Closed Saving Accounts Available",
+      "No Active Fixed Deposit Accounts Available": "No Active Fixed Deposit Accounts Available",
+      "No Closed Fixed Deposit Accounts Available": "No Closed Fixed Deposit Accounts Available",
+      "No Active Recurring Deposit Accounts Available": "No Active Recurring Deposit Accounts Available",
+      "No Closed Recurring Deposit Accounts Available": "No Closed Recurring Deposit Accounts Available",
+      "No Active Share Accounts Available": "No Active Share Accounts Available",
+      "No Closed Share Accounts Available": "No Closed Share Accounts Available",
+      "No Collateral Data Available": "No Collateral Data Available"
     }
   },
   "languages": {

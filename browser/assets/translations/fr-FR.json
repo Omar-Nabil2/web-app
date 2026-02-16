@@ -1301,6 +1301,11 @@
       "Pending Tasks": "Tâches en attente"
     },
     "inputs": {
+      "Floating rate": "Taux flottant",
+      "Differential rate": "Taux différentiel",
+      "Minimum interest rate": "Taux d'intérêt minimum",
+      "Interest rate": "Taux d'intérêt",
+      "Maximum interest rate": "Taux d'intérêt maximum",
       "Terms": "Termes",
       "Settings": "Paramètres",
       "accounting": {
@@ -1644,6 +1649,7 @@
       "Decimals to Display": "Décimales à afficher",
       "Default": "Défaut",
       "Default Date Format": "Format de date par défaut",
+      "Default Datetime Format": "Format de date et heure par défaut",
       "Default Font": "Police par défaut",
       "Default Language": "Langage par défaut",
       "Default Savings Account": "Compte d'épargne par défaut",
@@ -1757,6 +1763,12 @@
       "External ID": "ID externe",
       "External Id": "Identifiant externe",
       "External id": "Identifiant externe",
+      "External ID not found": "ID externe introuvable",
+      "External ID lookup failed": "Échec de la recherche de l'ID externe",
+      "External ID format is invalid": "Le format de l'ID externe est invalide",
+      "External ID verified successfully": "ID externe vérifié avec succès",
+      "Looking up External ID...": "Recherche de l'ID externe...",
+      "External ID lookup timed out": "Délai de recherche de l'ID externe dépassé",
       "event with entity name of": "événement avec le nom de l'entité de",
       "FAMILY MEMBERS": "MEMBRES DE LA FAMILLE",
       "FCM End Point": "Point final FCM",
@@ -3604,7 +3616,19 @@
       "Login": "Se connecter"
     },
     "messages": {
-      "No Data Found": "Aucune donnée trouvée"
+      "No Data Found": "Aucune donnée disponible",
+      "No Upcoming Charges Available": "Aucun frais à venir disponible",
+      "No Active Loan Accounts Available": "Aucun compte de prêt actif disponible",
+      "No Closed Loan Accounts Available": "Aucun compte de prêt fermé disponible",
+      "No Active Saving Accounts Available": "Aucun compte d'épargne actif disponible",
+      "No Closed Saving Accounts Available": "Aucun compte d'épargne fermé disponible",
+      "No Active Fixed Deposit Accounts Available": "Aucun compte de dépôt à terme actif disponible",
+      "No Closed Fixed Deposit Accounts Available": "Aucun compte de dépôt à terme fermé disponible",
+      "No Active Recurring Deposit Accounts Available": "Aucun compte de dépôt récurrent actif disponible",
+      "No Closed Recurring Deposit Accounts Available": "Aucun compte de dépôt récurrent fermé disponible",
+      "No Active Share Accounts Available": "Aucun compte d'actions actif disponible",
+      "No Closed Share Accounts Available": "Aucun compte d'actions fermé disponible",
+      "No Collateral Data Available": "Aucune donnée de garantie disponible"
     }
   },
   "languages": {
